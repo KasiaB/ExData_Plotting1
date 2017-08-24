@@ -4,6 +4,7 @@ This repo contains 4 .R files:
 - plot2.R - the R script that construct plot2 and saves it to the file plot2.png
 - plot3.R - the R script that construct plot3 and saves it to the file plot3.png
 - plot4.R - the R script that construct plot4 and saves it to the file plot4.png
+##
 and 4 .png files:
 - plot1.png - the file generated and saved by the the plot1.R script, containing plot1
 - plot2.png - the file generated and saved by the the plot2.R script, containing plot2
