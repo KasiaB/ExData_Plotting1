@@ -1,3 +1,18 @@
+## Content of the repository
+This repo contains 4 .R files:
+- plot1.R - the R script that construct plot1 and saves it to the file plot1.png
+- plot2.R - the R script that construct plot2 and saves it to the file plot2.png
+- plot3.R - the R script that construct plot3 and saves it to the file plot3.png
+- plot4.R - the R script that construct plot4 and saves it to the file plot4.png
+and 4 .png files:
+- plot1.png - the file generated and saved by the the plot1.R script, containing plot1
+- plot2.png - the file generated and saved by the the plot2.R script, containing plot2
+- plot3.png - the file generated and saved by the the plot3.R script, containing plot3
+- plot4.png - the file generated and saved by the the plot4.R script, containing plot4
+
+The files were created as a Week 1 of Coursera Exploratory Data Analysis course plotting assignment.
+The instructions to the assignment can be viewed below.
+
 ## Introduction
 
 This assignment uses data from
